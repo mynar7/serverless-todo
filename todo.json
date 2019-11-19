@@ -1,0 +1,40 @@
+{
+    "todo-table": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {
+                        "S": "get groceries"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {
+                        "S": "do homework"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {
+                        "S": "eat ramen"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "name": {
+                        "S": "cry"
+                    }
+                }
+            }
+        }
+    ]
+}
